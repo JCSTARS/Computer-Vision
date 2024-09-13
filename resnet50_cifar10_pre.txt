@@ -1,0 +1,10 @@
+2024-09-13 09:56:51,602 - INFO - Epoch [1/10], Loss: 1.0121, Train Accuracy: 74.64%, Test Accuracy: 73.03%
+2024-09-13 10:00:40,085 - INFO - Epoch [2/10], Loss: 0.5932, Train Accuracy: 81.99%, Test Accuracy: 78.43%
+2024-09-13 10:04:26,610 - INFO - Epoch [3/10], Loss: 0.4487, Train Accuracy: 86.79%, Test Accuracy: 82.82%
+2024-09-13 10:08:15,214 - INFO - Epoch [4/10], Loss: 0.3589, Train Accuracy: 91.32%, Test Accuracy: 85.95%
+2024-09-13 10:12:02,080 - INFO - Epoch [5/10], Loss: 0.2853, Train Accuracy: 90.82%, Test Accuracy: 84.46%
+2024-09-13 10:15:51,798 - INFO - Epoch [6/10], Loss: 0.2297, Train Accuracy: 95.03%, Test Accuracy: 87.90%
+2024-09-13 10:19:38,470 - INFO - Epoch [7/10], Loss: 0.1775, Train Accuracy: 96.72%, Test Accuracy: 88.76%
+2024-09-13 10:23:26,121 - INFO - Epoch [8/10], Loss: 0.1457, Train Accuracy: 96.13%, Test Accuracy: 86.90%
+2024-09-13 10:27:14,601 - INFO - Epoch [9/10], Loss: 0.1166, Train Accuracy: 98.03%, Test Accuracy: 88.94%
+2024-09-13 10:31:02,372 - INFO - Epoch [10/10], Loss: 0.0983, Train Accuracy: 97.74%, Test Accuracy: 88.14%
